@@ -26,7 +26,7 @@
 <a href="https://umutmintas.com" target="blank"><img align="center" margin="40px" src="https://img.icons8.com/?size=100&id=9xygBPzKrg89&format=png&color=000000" alt="umutmintas" height="40" width="40" /></a>
 &nbsp
 &nbsp
-<a href="mailto:someone@example.com target="blank"><img align="center" margin="40px" src="https://github.com/user-attachments/assets/f814ec87-688a-47ef-b5b0-2343ada3d695" alt="umutmintas" height="45" width="45" /></a>
+<a href="mailto:info@umutmintas.com target="blank"><img align="center" margin="40px" src="https://github.com/user-attachments/assets/f814ec87-688a-47ef-b5b0-2343ada3d695" alt="umutmintas" height="45" width="45" /></a>
 
 
 </p>
