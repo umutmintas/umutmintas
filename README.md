@@ -17,9 +17,18 @@
 - 📫 How to reach me **info@umutmintas.com**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umutmintas" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="umutmintas" height="40" width="40" /></a>
+&nbsp
+&nbsp
+<a href="https://umutmintas.com" target="blank"><img align="center" margin="40px" src="https://img.icons8.com/?size=100&id=9xygBPzKrg89&format=png&color=000000" alt="umutmintas" height="40" width="40" /></a>
+&nbsp
+&nbsp
+<a href="mailto:someone@example.com target="blank"><img align="center" margin="40px" src="https://github.com/user-attachments/assets/f814ec87-688a-47ef-b5b0-2343ada3d695" alt="umutmintas" height="45" width="45" /></a>
+
+
 </p>
 
 
